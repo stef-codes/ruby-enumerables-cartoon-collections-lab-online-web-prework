@@ -12,7 +12,7 @@ def long_planeteer_calls(array)
     return true
   else 
     return false
-  i ++ 1
+  i += 1
   end 
 end
 
